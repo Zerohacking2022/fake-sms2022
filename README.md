@@ -4,7 +4,7 @@
 
 
 # Mobile Number Validation Tool:
-   https://github.com/Zerohacking2022/numverify
+   https://github.com/Zerohacking2022/scanning-number2022.git
    
 # About API:
      As we are using paid API and the total daily limit is 200 for all users.
